@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/heyChat/static/css/main.901faa0c.css",
+    "main.js": "/heyChat/static/js/main.9b87ee87.js",
+    "static/media/happiness.png": "/heyChat/static/media/happiness.6b8b2e49a9d3215a9096.png",
+    "static/media/gallery.png": "/heyChat/static/media/gallery.efc44411bba09a71ff75.png",
+    "static/media/paper-plane.png": "/heyChat/static/media/paper-plane.f05c495951d139b41386.png",
+    "index.html": "/heyChat/index.html",
+    "main.901faa0c.css.map": "/heyChat/static/css/main.901faa0c.css.map",
+    "main.9b87ee87.js.map": "/heyChat/static/js/main.9b87ee87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.901faa0c.css",
+    "static/js/main.9b87ee87.js"
+  ]
+}
