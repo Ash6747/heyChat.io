@@ -5,6 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+}
+/* Hide scrollbar by default */
+::-webkit-scrollbar {
+  width: 0.5em;
+  background-color: #ddddf7;
+}
+
+/* Make scrollbar visible when needed */
+::-webkit-scrollbar-thumb {
+  background-color: #ddddf7;
+}
+
+/* Make scrollbar track visible when needed */
+::-webkit-scrollbar-track {
+  background-color: #ddddf7;
 }
 
 code {
